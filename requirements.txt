@@ -1,6 +1,7 @@
-streamlit
-ultralytics
-easyocr
-opencv-python-headless
-numpy
-json
+flask==2.3.2
+torch==2.0.1
+ultralytics==8.0.196  # Latest version that supports Python 3.9+
+easyocr==1.7.1
+opencv-python-headless==4.8.1.78
+numpy==1.24.3
+gunicorn==21.2.0

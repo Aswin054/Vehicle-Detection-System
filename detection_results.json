@@ -1,0 +1,1812 @@
+[
+    {
+        "frame": 3,
+        "timestamp": 0.06896551724137931,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        300,
+                        1041,
+                        1332
+                    ],
+                    "confidence": 0.8274432420730591,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        94,
+                        1184,
+                        170,
+                        1262
+                    ],
+                    "text": "KAS|AULG10",
+                    "status": "New",
+                    "confidence": 0.6783854365348816
+                }
+            ]
+        }
+    },
+    {
+        "frame": 6,
+        "timestamp": 0.1724137931034483,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        426,
+                        1029,
+                        1333
+                    ],
+                    "confidence": 0.7795078754425049,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        91,
+                        1189,
+                        169,
+                        1264
+                    ],
+                    "text": "KASI0JL610",
+                    "status": "New",
+                    "confidence": 0.6647737622261047
+                }
+            ]
+        }
+    },
+    {
+        "frame": 9,
+        "timestamp": 0.27586206896551724,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        452,
+                        1018,
+                        1339
+                    ],
+                    "confidence": 0.8146303296089172,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        89,
+                        1194,
+                        175,
+                        1275
+                    ],
+                    "text": "KASIAJLG10",
+                    "status": "New",
+                    "confidence": 0.6751588582992554
+                }
+            ]
+        }
+    },
+    {
+        "frame": 12,
+        "timestamp": 0.3793103448275862,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        458,
+                        1011,
+                        1337
+                    ],
+                    "confidence": 0.8009428977966309,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        91,
+                        1201,
+                        176,
+                        1279
+                    ],
+                    "text": "KAS14JLG10",
+                    "status": "New",
+                    "confidence": 0.6951337456703186
+                }
+            ]
+        }
+    },
+    {
+        "frame": 15,
+        "timestamp": 0.48275862068965514,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        511,
+                        996,
+                        1335
+                    ],
+                    "confidence": 0.8678295612335205,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        91,
+                        1199,
+                        178,
+                        1282
+                    ],
+                    "text": "KA510J4GI0",
+                    "status": "New",
+                    "confidence": 0.6520289778709412
+                }
+            ]
+        }
+    },
+    {
+        "frame": 18,
+        "timestamp": 0.5862068965517241,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        4,
+                        459,
+                        982,
+                        1343
+                    ],
+                    "confidence": 0.7963971495628357,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        96,
+                        1200,
+                        180,
+                        1286
+                    ],
+                    "text": "KA51AJ4GI0",
+                    "status": "New",
+                    "confidence": 0.684239387512207
+                }
+            ]
+        }
+    },
+    {
+        "frame": 21,
+        "timestamp": 0.6896551724137931,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        472,
+                        964,
+                        1358
+                    ],
+                    "confidence": 0.8156523704528809,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        95,
+                        1203,
+                        187,
+                        1292
+                    ],
+                    "text": "KAS|48L6J0",
+                    "status": "New",
+                    "confidence": 0.5194615721702576
+                }
+            ]
+        }
+    },
+    {
+        "frame": 24,
+        "timestamp": 0.7931034482758621,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        483,
+                        950,
+                        1352
+                    ],
+                    "confidence": 0.8385090231895447,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        103,
+                        1207,
+                        200,
+                        1296
+                    ],
+                    "text": "KA514J4610",
+                    "status": "New",
+                    "confidence": 0.6298040151596069
+                }
+            ]
+        }
+    },
+    {
+        "frame": 27,
+        "timestamp": 0.896551724137931,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        273,
+                        948,
+                        1366
+                    ],
+                    "confidence": 0.8567221760749817,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        105,
+                        1212,
+                        205,
+                        1303
+                    ],
+                    "text": "KA51AJ4610|",
+                    "status": "New",
+                    "confidence": 0.5310785174369812
+                }
+            ]
+        }
+    },
+    {
+        "frame": 30,
+        "timestamp": 1.0,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        264,
+                        928,
+                        1373
+                    ],
+                    "confidence": 0.8621068000793457,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 33,
+        "timestamp": 1.103448275862069,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        271,
+                        923,
+                        1375
+                    ],
+                    "confidence": 0.9017313122749329,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        112,
+                        1226,
+                        221,
+                        1320
+                    ],
+                    "text": "KA514J4610]",
+                    "status": "New",
+                    "confidence": 0.5129608511924744
+                }
+            ]
+        }
+    },
+    {
+        "frame": 36,
+        "timestamp": 1.206896551724138,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        267,
+                        912,
+                        1388
+                    ],
+                    "confidence": 0.9050843715667725,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        117,
+                        1231,
+                        225,
+                        1321
+                    ],
+                    "text": "KA5|4J4610",
+                    "status": "New",
+                    "confidence": 0.6023832559585571
+                }
+            ]
+        }
+    },
+    {
+        "frame": 39,
+        "timestamp": 1.3103448275862069,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        233,
+                        829,
+                        1385
+                    ],
+                    "confidence": 0.8886009454727173,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 42,
+        "timestamp": 1.4137931034482758,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        251,
+                        852,
+                        1395
+                    ],
+                    "confidence": 0.8820658922195435,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 45,
+        "timestamp": 1.5172413793103448,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        277,
+                        831,
+                        1402
+                    ],
+                    "confidence": 0.8807762265205383,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        139,
+                        1240,
+                        264,
+                        1345
+                    ],
+                    "text": "KA514J4610",
+                    "status": "New",
+                    "confidence": 0.6198828220367432
+                }
+            ]
+        }
+    },
+    {
+        "frame": 48,
+        "timestamp": 1.6206896551724137,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        4,
+                        247,
+                        782,
+                        1393
+                    ],
+                    "confidence": 0.6324023008346558,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 51,
+        "timestamp": 1.7241379310344827,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        543,
+                        790,
+                        1441
+                    ],
+                    "confidence": 0.572306752204895,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 54,
+        "timestamp": 1.8275862068965516,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        10,
+                        213,
+                        780,
+                        972
+                    ],
+                    "confidence": 0.5893501043319702,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        527,
+                        767,
+                        1426
+                    ],
+                    "confidence": 0.534255862236023,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 57,
+        "timestamp": 1.9310344827586206,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        190,
+                        766,
+                        1426
+                    ],
+                    "confidence": 0.6199817061424255,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        134,
+                        1265,
+                        293,
+                        1387
+                    ],
+                    "text": "KA51AJL610",
+                    "status": "New",
+                    "confidence": 0.5346909165382385
+                }
+            ]
+        }
+    },
+    {
+        "frame": 60,
+        "timestamp": 2.0344827586206895,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        321,
+                        765,
+                        1493
+                    ],
+                    "confidence": 0.6508286595344543,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 63,
+        "timestamp": 2.1379310344827585,
+        "results": {
+            "lorries": [],
+            "plates": [
+                {
+                    "bbox": [
+                        128,
+                        1289,
+                        297,
+                        1410
+                    ],
+                    "text": "KA51AJL610",
+                    "status": "New",
+                    "confidence": 0.5137714147567749
+                }
+            ]
+        }
+    },
+    {
+        "frame": 66,
+        "timestamp": 2.2413793103448274,
+        "results": {
+            "lorries": [],
+            "plates": []
+        }
+    },
+    {
+        "frame": 69,
+        "timestamp": 2.3448275862068964,
+        "results": {
+            "lorries": [],
+            "plates": [
+                {
+                    "bbox": [
+                        121,
+                        1300,
+                        304,
+                        1429
+                    ],
+                    "text": "KA51AJL610",
+                    "status": "New",
+                    "confidence": 0.5822320580482483
+                }
+            ]
+        }
+    },
+    {
+        "frame": 72,
+        "timestamp": 2.4482758620689653,
+        "results": {
+            "lorries": [],
+            "plates": [
+                {
+                    "bbox": [
+                        118,
+                        1307,
+                        318,
+                        1442
+                    ],
+                    "text": "KAS1AJZ610",
+                    "status": "New",
+                    "confidence": 0.6373812556266785
+                }
+            ]
+        }
+    },
+    {
+        "frame": 75,
+        "timestamp": 2.5517241379310343,
+        "results": {
+            "lorries": [],
+            "plates": []
+        }
+    },
+    {
+        "frame": 78,
+        "timestamp": 2.655172413793103,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        52,
+                        747,
+                        1575
+                    ],
+                    "confidence": 0.610699474811554,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        129,
+                        1331,
+                        338,
+                        1474
+                    ],
+                    "text": "KA51AJL610",
+                    "status": "New",
+                    "confidence": 0.6102046370506287
+                }
+            ]
+        }
+    },
+    {
+        "frame": 81,
+        "timestamp": 2.7586206896551726,
+        "results": {
+            "lorries": [],
+            "plates": [
+                {
+                    "bbox": [
+                        138,
+                        1343,
+                        348,
+                        1490
+                    ],
+                    "text": "KA51AJZ610",
+                    "status": "New",
+                    "confidence": 0.5769708752632141
+                }
+            ]
+        }
+    },
+    {
+        "frame": 84,
+        "timestamp": 2.8620689655172415,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        179,
+                        754,
+                        1640
+                    ],
+                    "confidence": 0.5076658725738525,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        148,
+                        1352,
+                        364,
+                        1503
+                    ],
+                    "text": "KA510D4JI610",
+                    "status": "New",
+                    "confidence": 0.6557517647743225
+                }
+            ]
+        }
+    },
+    {
+        "frame": 87,
+        "timestamp": 2.9655172413793105,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        239,
+                        776,
+                        1646
+                    ],
+                    "confidence": 0.5692599415779114,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        149,
+                        1360,
+                        376,
+                        1516
+                    ],
+                    "text": "KA51NOAJL610",
+                    "status": "New",
+                    "confidence": 0.5513902306556702
+                }
+            ]
+        }
+    },
+    {
+        "frame": 90,
+        "timestamp": 3.0689655172413794,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        213,
+                        777,
+                        1627
+                    ],
+                    "confidence": 0.5458062291145325,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        164,
+                        1372,
+                        391,
+                        1527
+                    ],
+                    "text": "KA51ND4J4610",
+                    "status": "New",
+                    "confidence": 0.6470252871513367
+                }
+            ]
+        }
+    },
+    {
+        "frame": 93,
+        "timestamp": 3.1724137931034484,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        172,
+                        786,
+                        1650
+                    ],
+                    "confidence": 0.5147054195404053,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        196,
+                        1383,
+                        404,
+                        1534
+                    ],
+                    "text": "KA51ND4J4610",
+                    "status": "New",
+                    "confidence": 0.6786757707595825
+                }
+            ]
+        }
+    },
+    {
+        "frame": 96,
+        "timestamp": 3.2758620689655173,
+        "results": {
+            "lorries": [],
+            "plates": [
+                {
+                    "bbox": [
+                        204,
+                        1386,
+                        436,
+                        1549
+                    ],
+                    "text": "D10KAS1AJL6",
+                    "status": "New",
+                    "confidence": 0.6780110001564026
+                }
+            ]
+        }
+    },
+    {
+        "frame": 99,
+        "timestamp": 3.3793103448275863,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        247,
+                        814,
+                        1687
+                    ],
+                    "confidence": 0.7428566217422485,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        226,
+                        1390,
+                        464,
+                        1559
+                    ],
+                    "text": "AD10KAS1AJL6",
+                    "status": "New",
+                    "confidence": 0.695430338382721
+                }
+            ]
+        }
+    },
+    {
+        "frame": 102,
+        "timestamp": 3.4827586206896552,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        205,
+                        824,
+                        1710
+                    ],
+                    "confidence": 0.6780720949172974,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        251,
+                        1398,
+                        482,
+                        1561
+                    ],
+                    "text": "IND10KA51AJL6",
+                    "status": "New",
+                    "confidence": 0.6556333303451538
+                }
+            ]
+        }
+    },
+    {
+        "frame": 105,
+        "timestamp": 3.586206896551724,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        157,
+                        831,
+                        1691
+                    ],
+                    "confidence": 0.6258437633514404,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        285,
+                        1405,
+                        510,
+                        1578
+                    ],
+                    "text": "10KA51J46",
+                    "status": "New",
+                    "confidence": 0.6792821288108826
+                }
+            ]
+        }
+    },
+    {
+        "frame": 108,
+        "timestamp": 3.689655172413793,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        136,
+                        835,
+                        1695
+                    ],
+                    "confidence": 0.6858974695205688,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        303,
+                        1413,
+                        522,
+                        1591
+                    ],
+                    "text": "10KA5IAJL6-",
+                    "status": "New",
+                    "confidence": 0.5579015016555786
+                }
+            ]
+        }
+    },
+    {
+        "frame": 111,
+        "timestamp": 3.793103448275862,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        88,
+                        849,
+                        1726
+                    ],
+                    "confidence": 0.7036471366882324,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 114,
+        "timestamp": 3.896551724137931,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        56,
+                        842,
+                        1750
+                    ],
+                    "confidence": 0.7274075746536255,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 117,
+        "timestamp": 4.0,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        27,
+                        843,
+                        1754
+                    ],
+                    "confidence": 0.7697119116783142,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 120,
+        "timestamp": 4.1034482758620685,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        6,
+                        835,
+                        1687
+                    ],
+                    "confidence": 0.7675651907920837,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 123,
+        "timestamp": 4.206896551724138,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        723,
+                        817,
+                        1691
+                    ],
+                    "confidence": 0.6286695599555969,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        6,
+                        818,
+                        988
+                    ],
+                    "confidence": 0.6031245589256287,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 126,
+        "timestamp": 4.310344827586206,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        721,
+                        805,
+                        1697
+                    ],
+                    "confidence": 0.7939316630363464,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        5,
+                        802,
+                        994
+                    ],
+                    "confidence": 0.7725110650062561,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 129,
+        "timestamp": 4.413793103448276,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        760,
+                        784,
+                        1710
+                    ],
+                    "confidence": 0.756537914276123,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        9,
+                        782,
+                        1266
+                    ],
+                    "confidence": 0.7470895648002625,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 132,
+        "timestamp": 4.517241379310345,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        778,
+                        765,
+                        1751
+                    ],
+                    "confidence": 0.7238180041313171,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        9,
+                        780,
+                        1589
+                    ],
+                    "confidence": 0.5571752190589905,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 135,
+        "timestamp": 4.620689655172414,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        802,
+                        746,
+                        1768
+                    ],
+                    "confidence": 0.6682425141334534,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        12,
+                        758,
+                        984
+                    ],
+                    "confidence": 0.5935763716697693,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        28,
+                        751,
+                        1412
+                    ],
+                    "confidence": 0.501660943031311,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 138,
+        "timestamp": 4.724137931034483,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        4,
+                        760,
+                        966
+                    ],
+                    "confidence": 0.7023798227310181,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        812,
+                        725,
+                        1758
+                    ],
+                    "confidence": 0.6272942423820496,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 141,
+        "timestamp": 4.827586206896552,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        797,
+                        962
+                    ],
+                    "confidence": 0.7582381963729858,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        782,
+                        716,
+                        1757
+                    ],
+                    "confidence": 0.6683835983276367,
+                    "class": 1.0
+                }
+            ],
+            "plates": [
+                {
+                    "bbox": [
+                        460,
+                        1417,
+                        579,
+                        1582
+                    ],
+                    "text": "MINL6IV",
+                    "status": "New",
+                    "confidence": 0.5452597141265869
+                }
+            ]
+        }
+    },
+    {
+        "frame": 144,
+        "timestamp": 4.931034482758621,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        757,
+                        966
+                    ],
+                    "confidence": 0.8790909051895142,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        744,
+                        704,
+                        1724
+                    ],
+                    "confidence": 0.5626103281974792,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 147,
+        "timestamp": 5.0344827586206895,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        737,
+                        965
+                    ],
+                    "confidence": 0.8259816765785217,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        721,
+                        692,
+                        1734
+                    ],
+                    "confidence": 0.5153382420539856,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 150,
+        "timestamp": 5.137931034482759,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        1,
+                        725,
+                        972
+                    ],
+                    "confidence": 0.7886796593666077,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        757,
+                        679,
+                        1736
+                    ],
+                    "confidence": 0.6920962929725647,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 153,
+        "timestamp": 5.241379310344827,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        711,
+                        973
+                    ],
+                    "confidence": 0.7670538425445557,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        743,
+                        677,
+                        1685
+                    ],
+                    "confidence": 0.5726168751716614,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 156,
+        "timestamp": 5.344827586206897,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        699,
+                        975
+                    ],
+                    "confidence": 0.8225533366203308,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        25,
+                        755,
+                        665,
+                        1698
+                    ],
+                    "confidence": 0.6086384057998657,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 159,
+        "timestamp": 5.448275862068965,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        700,
+                        984
+                    ],
+                    "confidence": 0.8317700624465942,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 162,
+        "timestamp": 5.551724137931035,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        4,
+                        702,
+                        974
+                    ],
+                    "confidence": 0.7476025819778442,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 165,
+        "timestamp": 5.655172413793103,
+        "results": {
+            "lorries": [],
+            "plates": []
+        }
+    },
+    {
+        "frame": 168,
+        "timestamp": 5.758620689655173,
+        "results": {
+            "lorries": [],
+            "plates": []
+        }
+    },
+    {
+        "frame": 171,
+        "timestamp": 5.862068965517241,
+        "results": {
+            "lorries": [],
+            "plates": []
+        }
+    },
+    {
+        "frame": 174,
+        "timestamp": 5.9655172413793105,
+        "results": {
+            "lorries": [],
+            "plates": []
+        }
+    },
+    {
+        "frame": 177,
+        "timestamp": 6.068965517241379,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        1030,
+                        638,
+                        1918
+                    ],
+                    "confidence": 0.7275263071060181,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 180,
+        "timestamp": 6.172413793103448,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        17,
+                        690,
+                        922
+                    ],
+                    "confidence": 0.7777591347694397,
+                    "class": 0.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        985,
+                        644,
+                        1918
+                    ],
+                    "confidence": 0.5511529445648193,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 183,
+        "timestamp": 6.275862068965517,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        922,
+                        660,
+                        1919
+                    ],
+                    "confidence": 0.6963880658149719,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 186,
+        "timestamp": 6.379310344827586,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        953,
+                        678,
+                        1920
+                    ],
+                    "confidence": 0.5574082136154175,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 189,
+        "timestamp": 6.482758620689655,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        980,
+                        671,
+                        1919
+                    ],
+                    "confidence": 0.5258767008781433,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 192,
+        "timestamp": 6.586206896551724,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        129,
+                        755,
+                        1808
+                    ],
+                    "confidence": 0.5539514422416687,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        937,
+                        715,
+                        1920
+                    ],
+                    "confidence": 0.50495445728302,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 195,
+        "timestamp": 6.689655172413793,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        72,
+                        760,
+                        1825
+                    ],
+                    "confidence": 0.7186005711555481,
+                    "class": 1.0
+                },
+                {
+                    "bbox": [
+                        0,
+                        1008,
+                        719,
+                        1918
+                    ],
+                    "confidence": 0.5639666318893433,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 198,
+        "timestamp": 6.793103448275862,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        34,
+                        746,
+                        1821
+                    ],
+                    "confidence": 0.6713160276412964,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 201,
+        "timestamp": 6.896551724137931,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        47,
+                        734,
+                        1776
+                    ],
+                    "confidence": 0.7641987800598145,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 204,
+        "timestamp": 7.0,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        45,
+                        730,
+                        1765
+                    ],
+                    "confidence": 0.6257001757621765,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 207,
+        "timestamp": 7.1034482758620685,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        46,
+                        729,
+                        1726
+                    ],
+                    "confidence": 0.7467707991600037,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 210,
+        "timestamp": 7.206896551724138,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        78,
+                        725,
+                        1715
+                    ],
+                    "confidence": 0.8240240216255188,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 213,
+        "timestamp": 7.310344827586206,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        101,
+                        725,
+                        1697
+                    ],
+                    "confidence": 0.8110272884368896,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 216,
+        "timestamp": 7.413793103448276,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        88,
+                        721,
+                        1682
+                    ],
+                    "confidence": 0.8242939710617065,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 219,
+        "timestamp": 7.517241379310344,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        97,
+                        710,
+                        1668
+                    ],
+                    "confidence": 0.8118723630905151,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 222,
+        "timestamp": 7.620689655172414,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        15,
+                        717,
+                        1656
+                    ],
+                    "confidence": 0.7265903949737549,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    },
+    {
+        "frame": 225,
+        "timestamp": 7.724137931034482,
+        "results": {
+            "lorries": [
+                {
+                    "bbox": [
+                        0,
+                        14,
+                        726,
+                        1682
+                    ],
+                    "confidence": 0.7671028971672058,
+                    "class": 1.0
+                }
+            ],
+            "plates": []
+        }
+    }
+]
